@@ -1,0 +1,20 @@
+.odd {
+  background-color: indianred;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+#blue {
+  color: blue;
+  font-size: 36px;
+}
+
+#third {
+  font-size: 36px;
+}
+
+#green {
+  background-color: lightgreen;
+  font-size: 36px;
+}
