@@ -4,7 +4,7 @@ Use flexbox rules to create this very common webpage header style. The benefit t
 
 ## Desired Outcome
 
-narrow:
+narrow: 
 ![narrow](./desired-outcome-narrow.png)
 
 wide: 
